@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![MasterHead]
-https://camo.githubusercontent.com/c1520e1bbe72620f9fbad4790ede10035a9c5dcea2d930a5ad750542cc812084/68747470733a2f2f74696e6b6572636164656d792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30342f47656e657269632d42616e6e65722d30372d5765622d4170702d446576656c6f7065722e706e67
 <h1 align="center">Hi 👋, I'm SumathiMurugan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
